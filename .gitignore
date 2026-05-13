@@ -1,0 +1,18 @@
+# External cloned repository
+sam2/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated outputs
+outputs/
+logs/
+tmp/
+
+# SLURM logs
+*.out
+*.err
+
+# macOS
+.DS_Store
